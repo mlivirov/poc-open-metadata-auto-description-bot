@@ -1,0 +1,7 @@
+apache-airflow
+langchain
+langchain-experimental
+openai
+openmetadata-ingestion~=1.2.5
+yandexcloud
+docarray
